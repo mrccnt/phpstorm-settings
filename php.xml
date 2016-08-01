@@ -199,7 +199,7 @@
             <configuration_option name="pcre.recursion_limit" value="100000" />
             <configuration_option name="pdo_mysql.default_socket" value="/var/run/mysqld/mysqld.sock" />
             <configuration_option name="phar.cache_list" value="" />
-            <configuration_option name="phar.readonly" value="1" />
+            <configuration_option name="phar.readonly" value="" />
             <configuration_option name="phar.require_hash" value="1" />
             <configuration_option name="post_max_size" value="8M" />
             <configuration_option name="precision" value="14" />
